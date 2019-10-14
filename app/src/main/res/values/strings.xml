@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Easy Breakfast</string>
+    <string name="search_recipe">Search Recipe</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="asian">Asian</string>
+    <string name="central_europe">Central Europe</string>
+    <string name="indian">Indian</string>
+    <string name="nordic">Nordic</string>
+    <string name="french">French</string>
+</resources>
